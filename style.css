@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; text-align: center; background-color: #f0f8ff; margin: 0; }
+nav { background: #003366; padding: 20px; }
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+header { background: #004080; color: white; padding: 40px; }
+.fare-box { background: #ffcc00; padding: 20px; display: inline-block; border-radius: 10px; margin-top: 20px; }
+button { background: #d9534f; color: white; border: none; padding: 10px 20px; cursor: pointer; border-radius: 5px; font-size: 16px; }
+button:hover { background: #c9302c; }
+ul { list-style: none; padding: 0; }
